@@ -1,5 +1,5 @@
 # CI Test demo
-[![Build status](https://ci.appveyor.com/api/projects/status/a9c470p5emewt2i2?svg=true)](https://ci.appveyor.com/project/MarShal69/symbols-iterators-generators-1)
+[![Build status](https://ci.appveyor.com/api/projects/status/x3tbguc083rv83si?svg=true)](https://ci.appveyor.com/project/MarShal69/symbols-iterators-generators-2)
 
 # Домашнее задание к лекции «Символы, итераторы, генераторы»
 
